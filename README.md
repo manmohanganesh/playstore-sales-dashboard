@@ -17,7 +17,11 @@ Interactive Power BI dashboard built to analyze business KPIs, sales trends, and
 ## Dashboard Preview
 
 ![Dashboard](screenshots/dashboard1.png)
+![Dashboard](screenshots/dashboard2.png)
+![Dashboard](screenshots/dashboard3.png)
+![Dashboard](screenshots/dashboard4.png)
+![Dashboard](screenshots/dashboard5.png)
+
 
 ## Project Files
 - dashboard.pbix
-- dataset.csv
